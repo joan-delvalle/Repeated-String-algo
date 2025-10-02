@@ -1,1 +1,1 @@
-# Repeated-String-algo
+# Repeated-String-algo This code solves the Repeated String problem by counting how many times the letter `'a'` appears in the first `n` characters of an infinitely repeated string `s`. It calculates the number of full repeats of `s`, counts `'a'`s in the leftover substring, and sums them to get the total.
